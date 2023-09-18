@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/bmattoso" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-:computer:   Android Consultant Developer @ Swile <br>
+:computer:   Android Developer @ Swile <br>
 :house:   Brazilian, Based in Campinas, SP <br>
 
 ### ⚒️ Tech Stack
